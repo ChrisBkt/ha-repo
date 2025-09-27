@@ -1,4 +1,5 @@
 {
   "name": "My Custom Add-ons",
-  "url": "https://github.com/ChrisBkt/ha-repo"
+  "url": "https://github.com/ChrisBkt/ha-repo",
+  "maintainer": "Chris B."
 }
